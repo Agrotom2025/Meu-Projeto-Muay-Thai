@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Noto Sans", sans-serif;
+}
+
+header {
+    margin-top: 15px;
+    margin-left: 50px;
+}
+
+.link-header {
+    margin-right: 20px;
+    font-weight: 600;
+    font-size: 25px;
+}
+
+.image-header {
+    margin-left: 1000px;
+    padding: 10px;
+    clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
+    background-color: palegreen;
+    width: 88px;
+    height: 88px;
+}
+
+.button-header {
+    font-weight: 600;
+    font-size: 25px;
+    border: transparent;
+    border-radius: 20px;
+    background-color: crimson;
+    color: aqua;
+    width: 178px;
+    height: 38px;
+
+
+
+}
